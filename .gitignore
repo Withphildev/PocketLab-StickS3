@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.bin
+*.elf
+*.map
+
