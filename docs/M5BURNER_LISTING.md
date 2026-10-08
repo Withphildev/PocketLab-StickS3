@@ -8,6 +8,33 @@ PocketLab for StickS3
 
 v0.16.0 Public Beta
 
+## Version description
+
+```markdown
+## v0.16.0 Public Beta
+
+First public beta release of PocketLab for the M5StickS3.
+
+### Highlights
+
+- Offline WebUI at `http://pocketlab`
+- Cyber Academy guided home-network checklist
+- No-logging 2.4 GHz Wi-Fi signal and channel analyzer
+- Smoothed signal readings with latest, strongest, and weakest values
+- Passive Wi-Fi survey and on-demand BLE inventory
+- BLE keyboard pairing and key tester
+- Internal file vault, battery monitor, and power controls
+- Expandable beginner-friendly networking glossary
+
+### Privacy and safety
+
+PocketLab does not crack passwords, disconnect devices, attack networks, or upload telemetry. Use it only with equipment and networks you own or have permission to examine.
+
+### Beta notes
+
+Additional reliability, compatibility, and usability updates are planned. BLE keyboard behavior may vary by model. Installing this factory image erases existing firmware, PocketLab files, saved baselines, and settings.
+```
+
 ## Device type
 
 M5StickS3
@@ -39,4 +66,3 @@ SHA-256:
 ## Cover
 
 Use `assets/pocketlab-splash-240x135.png`, or a higher-resolution 16:9 version of the same PocketLab artwork.
-
